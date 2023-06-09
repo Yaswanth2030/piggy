@@ -1,0 +1,134 @@
+.face{
+    height: 300px;
+    width: 300px;
+    background-color: pink;
+    border-radius: 50%;
+    margin: auto;
+    position: relative;
+    margin-top: 20%;
+    border: 2px solid black;
+}
+.ears{
+    width: 305px;
+    justify-content: space-evenly;
+    display: flex;
+    margin: auto;
+    position: absolute;
+   margin-bottom: 50%;
+
+}
+#lear{
+    height: 100px;
+    width:75px;
+    background-color: pink;
+    margin: auto;
+    margin-left: 30px;
+    border-top-left-radius: 45%;
+    border-top-right-radius:45%;
+}
+#rear{
+    height: 100px;
+    width:75px;
+    background-color: pink;
+    margin: auto;
+    margin-left: 50px;
+    border-top-left-radius: 45%;
+    border-top-right-radius: 45%;
+}
+.eyes{
+    width: 300px;
+    justify-content: space-evenly;
+    display: flex;
+    margin: auto;
+    position: absolute;
+   margin-top: 30%;
+   margin-left: 0%;
+}
+#leye{
+    height: 60px;
+    width: 60px;
+    background-color: white;
+    border-radius: 50%;
+}
+#reye{
+    height: 60px;
+    width: 60px;
+    background-color: white;
+    border-radius: 50%;
+}
+.smalleyes{
+    width: 325px;
+    justify-content: space-evenly;
+    display: flex;
+    margin: auto;
+    position: absolute;
+   margin-top: 5%;
+   margin-left: 0%;
+   margin-right: 0%;
+}
+#sleye{
+    height: 35px;
+    width: 35px;
+    background-color: black;
+    border-radius: 50%;
+}
+#sreye{
+    height: 35px;
+    width: 35px;
+    background-color: black;
+    border-radius: 50%;
+}
+.bignose{
+    height: 60px;
+    width:130px;
+    position: absolute;
+    background-color: red;
+    margin:auto;
+    display:flex;
+    margin-top: 60%;
+    margin-left: 30%;
+    border-top-left-radius: 30%;
+    border-top-right-radius: 30%;
+    border-bottom-left-radius: 30%;
+    border-bottom-right-radius: 30%;
+}
+.zeros{
+    display:flex;
+    width: 180px;
+    justify-content: space-evenly;
+    position: absolute;
+    margin-left: 65px;
+    margin-top: 60%;
+}
+#lzero{
+    height: 60px;
+    width:60px;
+    background-color: red;
+    border-radius: 50%;
+}
+#rzero{
+    height: 60px;
+    width:60px;
+    background-color: red;
+    border-radius: 50%;
+}
+.nose{
+    display:flex;
+    width: 250px;
+    justify-content: space-evenly;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 65%;
+}
+#lnose{
+    height: 30px;
+    width:30px;
+    background-color: black;
+    border-radius: 50%;
+}
+#rnose{
+    height: 30px;
+    width:30px;
+    background-color: black;
+    border-radius: 50%;
+}
